@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "roll_number": "BTAD26O1011",
+      "name": "Brajmohan Dudve",
+      "email": "brajmohan@mitsgwl.ac.in",
+      "dob": "23/12/2007"
+    }
+  ],
+  "courses": [
+    {"course_code": "2726101", "course_title": "Digital Logic Design", "course_type": "THEORY", "faculty": "Dr. Vibha Tiwari", "semester": "Sem 1", "credits": 4, "attended": 10, "total_classes": 16},
+    {"course_code": "2726102", "course_title": "Foundations of Data Science", "course_type": "THEORY", "faculty": "Dr. Abhishek Bhatt", "semester": "Sem 1", "credits": 4, "attended": 7, "total_classes": 13},
+    {"course_code": "2726103", "course_title": "Internet and Web Technologies", "course_type": "THEORY", "faculty": "Mr. Rahul Senthiya", "semester": "Sem 1", "credits": 3, "attended": 12, "total_classes": 21},
+    {"course_code": "2726104", "course_title": "Problem Solving and Programming", "course_type": "THEORY", "faculty": "Arun Kumar", "semester": "Sem 1", "credits": 3, "attended": 15, "total_classes": 29},
+    {"course_code": "2726105", "course_title": "Linear Algebra", "course_type": "THEORY", "faculty": "Dr. Rahul Kumar Sharma", "semester": "Sem 1", "credits": 4, "attended": 13, "total_classes": 25},
+    {"course_code": "2726106", "course_title": "Programming Lab", "course_type": "LAB", "faculty": "Arun Kumar", "semester": "Sem 1", "credits": 2, "attended": 6, "total_classes": 8}
+  ],
+  "enrolments": [
+    {"roll_number": "BTAD26O1011", "course_code": "2726101", "marks": 84.0},
+    {"roll_number": "BTAD26O1011", "course_code": "2726102", "marks": 78.0},
+    {"roll_number": "BTAD26O1011", "course_code": "2726103", "marks": 88.0},
+    {"roll_number": "BTAD26O1011", "course_code": "2726104", "marks": 91.0},
+    {"roll_number": "BTAD26O1011", "course_code": "2726105", "marks": 76.0},
+    {"roll_number": "BTAD26O1011", "course_code": "2726106", "marks": 92.0}
+  ]
+}
